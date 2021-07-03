@@ -17,6 +17,11 @@ Allow Continues Integration
 * Build, Test & Merge
 
 
+Allow Continues Integration
+
+* Build, Test & Merge
+
+
 
 
 
