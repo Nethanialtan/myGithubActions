@@ -17,9 +17,9 @@ Allow Continues Integration
 * Build, Test & Merge
 
 
-Allow Continues Integration
+Allow Continues deployment
 
-* Build, Test & Merge
+* Automactically Deploy to Produtcion
 
 
 
