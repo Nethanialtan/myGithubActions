@@ -9,17 +9,18 @@ GihHub Action to build a CI/CD actions
 ![CI_CD_worflow](CI_CD_worflow.png)
 
 
-## Allow Continues Integration 
+
+# Allow Continues Integration 
 
 * Build 
 * Test
 * Merge
 
-## Allow Continues Delivery
+# Allow Continues Delivery
 
 * Automactically Release to repostitory 
 
-## Allow Continues deployment 
+# Allow Continues deployment 
 
 * Automactically Deploy to production
 
@@ -39,9 +40,11 @@ GihHub Action to build a CI/CD actions
 * Any error will show on log file
 * Click Code tap, back to main to check. If pass, there will be a green tick, if any concern, will shown a yellow deployment
 
-# Push new code, check the update/testing code (pass/fail)
+# Push new code, check & update/testing code (pass/fail)
 
 * Click add file, create a new file
 * input the new code, name the file & commit input
 * Green tick Shown testing code Passed
 * Yellow dot, show there is a issue, click and review the code edit the error code, and commit again to test the code
+
+
