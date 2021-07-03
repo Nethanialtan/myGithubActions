@@ -37,7 +37,7 @@ Create Workflow & Push new code, check the update code
 * Go to Add File, Click Create new file for workflow
 
 
-Push new code, check the update code
+[myGithubActions](https://nethanialtan.github.io/myGithubActions/)
 
 
 
