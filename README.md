@@ -15,6 +15,7 @@ GihHub Action to build a CI/CD actions
 
 
 Allow Continues Integration
+
 To build the actions, paste the code to test and update it
 
 
@@ -22,6 +23,7 @@ To build the actions, paste the code to test and update it
 
 
 Allow Continues deployment 
+
 Automactically Deploy to production
 
 
@@ -29,6 +31,7 @@ Automactically Deploy to production
 
 
 Create New repostitory
+
 Input repostitory name, add Readme & create repostitory
 
 
