@@ -32,14 +32,14 @@ Create New Repository
 * Input Repository Name, Add Name & Create Repository
 
 
-Create Workflow
+Create Workflow & Push new code, check the update code
 
 * Go to Add File, Click Create new file for workflow
 
 
 Push new code, check the update code
 
-* Input code, test the code and review the result 
+
 
 
 
