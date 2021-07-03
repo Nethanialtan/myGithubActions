@@ -12,9 +12,7 @@ GihHub Action to build a CI/CD actions
 
 # Allow Continues Integration 
 
-* Build 
-* Test
-* Merge
+* Build, Test, update
 
 
 
