@@ -38,7 +38,7 @@ Create Workflow & Push new code, check the update code
 
 myGithubActions simple webpage automation 
 
-[myGithubActions webpage, click here](https://nethanialtan.github.io/myGithubActions/)
+[myGithubActions click here](https://nethanialtan.github.io/myGithubActions/)
 
 
 
