@@ -1,17 +1,20 @@
 
 # Simple CI/CD Project
+
 GihHub Action to build a CI/CD actions
 (Continuous integration and either continuous delivery or continuous deployment. 
 Team Collaboration by enforcing automation in building, testing and deployment of applications withing GitHub)
 
 
 ## Allow Continues Integration 
+
 - Build 
 - Test
 - Merge
 
 
 ## Allow Continues Delivery
+
 - Automactically Release to repostitory 
 
 
@@ -20,10 +23,12 @@ Team Collaboration by enforcing automation in building, testing and deployment o
 
 
 # Create New repostitory
+
 - Input repostitory name, add Readme & create repostitory
 
 
 ## Create Workflow
+
 - Go to Add File, Click Create new file
 - Input  naming dir. example:  .github/workflows/durian
 - Input yml file for Push event run on ubunto lastest, Checkour code
@@ -36,6 +41,7 @@ Team Collaboration by enforcing automation in building, testing and deployment o
 - If pass, there will be a green tick, if any concern, will shown a yellow deployment
 
 # Push new code, check the update/testing code (pass/fail)
+
 - Click add file, create a new file
 - input the new code, name the file & commit input
 - Green tick Shown testing code Passed
