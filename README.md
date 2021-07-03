@@ -6,4 +6,4 @@ GihHub Action to build a CI/CD actions
 
 
 
-![](CI_CD_worflow.png)
+![CI_CD_worflow](CI_CD_worflow.png)
