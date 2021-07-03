@@ -32,6 +32,29 @@ Create New Repository
 * Input Repository Name, Add Name & Create Repository
 
 
+Create Workflow
+
+* Go to Add File, Click Create new file
+
+* Input  naming dir. example:  .github/workflows/durian
+
+* Input yml file for Push event run on ubunto lastest, Checkour code
+
+* run code: super-linter & Commit file
+
+* Go back to Code and check file 
+
+* Click on ACtions tap to view the workflows running on Super-Linter
+
+* Clink the Lint Code base, viewing all running super-linter code, running behind any error will show on log filee 
+
+* Click Code tap, back to main to check. If pass, there will be a green tick, if any concern, will shown a yellow deployment
+
+
+
+
+
+
 
 
 
