@@ -17,10 +17,10 @@ Allow Continues Integration
 
 
 
-Allow Continues Integration
-* To build the actions, paste the code to test and update it
+Allow Continues deployment 
+* Automactically Deploy to production
 
 
 
-Allow Continues Integration
-* To build the actions, paste the code to test and update it
+Create New repostitory
+* Input repostitory name, add Readme & create repostitory
