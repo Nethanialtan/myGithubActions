@@ -13,13 +13,11 @@ GihHub Action to build a CI/CD actions
 
 
 Allow Continues Integration
-To build the actions, paste the code to test and update it
+* To build the actions, paste the code to test and update it
 
 
 
 
-Allow Continues Delivery
-Automactically Release to repostitory 
 
 
 
