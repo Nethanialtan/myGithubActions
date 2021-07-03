@@ -17,6 +17,10 @@ Allow Continues Integration
 * Build, Test & Merge
 
 
+Allow Continues deployment 
+
+* Automactically Deploy to production
+
 
 
 
