@@ -12,13 +12,19 @@ GihHub Action to build a CI/CD actions
 
 
 
+
+
 Allow Continues Integration
 To build the actions, paste the code to test and update it
 
 
 
+
+
 Allow Continues deployment 
 Automactically Deploy to production
+
+
 
 
 
