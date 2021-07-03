@@ -18,9 +18,6 @@ Allow Continues Integration
 
 
 
-Allow Continues deployment 
-
-* Automactically Deploy to production
 
 
 
