@@ -17,8 +17,10 @@ Allow Continues Integration
 
 
 
+Allow Continues Integration
+* To build the actions, paste the code to test and update it
 
 
 
-
-
+Allow Continues Integration
+* To build the actions, paste the code to test and update it
