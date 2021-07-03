@@ -39,7 +39,7 @@ Create Workflow
 
 Push new code, check the update code
 
-* Create new file and code, test the code and review the result 
+* Input code, test the code and review the result 
 
 
 
