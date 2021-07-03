@@ -12,7 +12,7 @@ GihHub Action to build a CI/CD actions
 
 
 
-## Simple CI/CD Project
+Simple CI/CD Project
 
 
 GihHub Action to build a CI/CD actions
