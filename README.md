@@ -38,7 +38,7 @@ Create Workflow & Push new code, check the update code
 
 
 
-[myGithubActions](https://nethanialtan.github.io/myGithubActions/)
+My simple CICD GitActions click this [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
 
 
 
