@@ -15,5 +15,9 @@ Allow Continues Integration
 * To build the actions, paste the code to test and update it
 
 
+Allow Continues Delivery
+* Automactically Release to repostitory 
+
+
 
 
