@@ -1,4 +1,5 @@
 # Simple CI/CD Project
+One of the start-up company, TDZ Inc., web designer used share point to share and update their project. DevOps,  a better way to increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. A Simple CICD project created.
 
 
 ![devOps](devOps.png)
