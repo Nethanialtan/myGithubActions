@@ -15,19 +15,20 @@ TDZ Inc., production team used share point to share and update many of their pro
 2. Creating a new repository and add a ReadmeFile (https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-new-repository)
 3. Create the workflow using superlinter.yml & input the code name: Super-Linter
 4. Create a workflow (https://docs.github.com/en/actions/quickstart)
-* Add file and create new file example : mygithubactions/.github/workflows/superlinter.yml
-* Input the code (Push event on ubuntu lastest continer, check the code and Run the Super-Linter
-* Commmit to main branch & click the Code tap, back to main repository
-* On staticside icon show Yellow as running the workflow & checking the code. If all check code pass, it will turn Green. If all check code fail, it will turn Red. 
-* Clieck on staticside icon or Actions tap to review the Super-Linter workflow. 
-* Super-Linter workflow.Able to reveiw the setup job, Pull the code & check code and run the Super-Linter again
-* Back to main Code area, it will show staticside icon status (pass or fail). First setup, it passed & shwon the green checkmark.
-5. Push some code to generate errror, workflow name : main.py
-6. Same step as item 4 above. Staticside icon status shown Red icon
-7. Correct the code, back to code, correct main.py code and run the main.py again & commit changes. If code no issue, staticside icon will show green check 
+* Add file and create new file example: mygithubactions/.github/workflows/superlinter.yml
+* Input the code (Push event on ubuntu latest container, check the code and run the Super-Linter
+* Commits to main branch & click the Code tap, back to main repository
+* On static side icon show Yellow as running the workflow & checking the code. If all check code pass, it will turn Green. If all check code fail, it will turn Red. 
+* Check on static side icon or Actions tap to review the Super-Linter workflow. 
+* Super-Linter workflow. Able to review the setup job, Pull the code & check code and run the Super-Linter again
+* Back to main Code area, it will show static side icon status (pass or fail). First setup, it passed & shown the green checkmark.
+5. Push some code to generate error, workflow name: main.py
+6. Same step as item 4 above. Static side icon status shown red icon
+7. Correct the code, back to code, correct main.py code and run the main.py again & commit changes. If code no issue, static side icon will show green check 
 8. Any error, Github will notify via email 
-9. Tap on Actions, you will abel to review all Events, status & Branch on all your actions of the above
-10. Many error shown on the code and no major issue, the webpage still able auto update, link to the correct URL, as below
+9. Tap on Actions, you will able to review all Events, status & Branch on all your actions of the above
+10. Many errors shown on the code and no major issue, the webpage still able auto update, link to the correct URL, as below
+
 
 # Click this [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
 
