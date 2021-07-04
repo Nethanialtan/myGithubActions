@@ -1,5 +1,5 @@
 # Simple CI/CD Project
-One of the new business, TDZ Inc., 3 website specialists and 2 developers utilized offer highlight offer and update their venture. Issue: works were wild and holding up time was squandered. DevOps, a superior method to builds an association's capacity to convey applications and administrations at high speed: advancing and further developing items at a quicker speed than associations utilizing customary programming advancement and framework the board measures. A Simple CICD made significant level to prescribe to them.
+TDZ Inc., production team used share point to share and update their project. Issue:  works were uncontrollable and waiting time was wasted. DevOps,  a better way to increases an organization's ability to deliver applications and services at high velocity. A simple CICD created high level to share with them.
 
 
 ![devOps](devOps.png)
