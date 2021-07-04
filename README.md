@@ -5,9 +5,7 @@ TDZ Inc., social media production team used share point to share and update many
 
 ![social-media-marketing](social-media-marketing.png) 
 
-
 ![devOps](devOps.png)
-
 
 ## GihHub Actions to build a CI/CD 
 (Continuous integration and either continuous delivery or continuous deployment. Team Collaboration by enforcing automation in building, testing and deployment of applications withing GitHub)
@@ -33,17 +31,13 @@ TDZ Inc., social media production team used share point to share and update many
 9. Tap on Actions, you will able to review all Events, status & Branch on all your actions of the above
 10. Many errors shown on the code and no major issue, the webpage still able auto update, link to the correct URL, as below
 
-
 # Click this myGithubActions webpage [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
-
 
 ## Installing
 * Download this program (https://github.com/Nethanialtan/myGithubActions)
 
-
 ## Executing the program
 * Refference above Steps of basic myGithubActions Github CICD 
-
 
 ## Dependencies
 * Input the Super-Linter & python code
@@ -51,10 +45,8 @@ TDZ Inc., social media production team used share point to share and update many
 * Window 10 & VS code
 * Google Chrome browser
 
-
 ### License
 * This project is licensed under the [Nethanial Tan] License - see the LICENSE.md file for details
-
 
 ### Acknowledgments
 * Github(https://github.com/)
