@@ -33,10 +33,13 @@ TDZ Inc., production team used share point to share and update many of their pro
 # Click this [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
 
 ## Installing
+* Download this program (https://github.com/Nethanialtan/myGithubActions)
 
 ## Executing the program
+* Refference above Steps of basic myGithubActions Github CICD 
 
 ## Dependencies
+
 
 ## License
 
