@@ -18,19 +18,7 @@ Allow Continues Integration
 * Build, Test & Merge
 
 
-Allow Continues Delivery
 
-* Automactically Release To Repository
-
-
-Allow Continues Deployment
-
-* Automactically Deploy To Production
-
-
-Create New Repository
-
-* Input Repository Name, Add Name & Create Repository
 
 
 
