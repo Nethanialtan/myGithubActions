@@ -9,7 +9,7 @@ TDZ Inc., production team used share point to share and update their project. Is
 
 
 
-## GihHub Action to build a CI/CD actions
+### GihHub Actions to build a CI/CD 
 (Continuous integration and either continuous delivery or continuous deployment. Team Collaboration by enforcing automation in building, testing and deployment of applications withing GitHub)
 
 
@@ -18,25 +18,25 @@ TDZ Inc., production team used share point to share and update their project. Is
 
 
 
-## Allow Continues Integration
+### Allow Continues Integration
 
 * Build, Test & Merge
 
 
 
-## Allow Continues Delivery
+### Allow Continues Delivery
 
 * Automactically Release To Repository
 
 
 
-## Allow Continues Deployment
+### Allow Continues Deployment
 
 * Automactically Deploy To Production
 
 
 
-## Create New Repository
+### Create New Repository
 
 * Go to Add File, Click Create new file for workflow
 
