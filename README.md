@@ -24,7 +24,7 @@ Allow Continues Delivery
 
 Allow Continues Deployment
 
-* Automactically Deploy to Produtcion
+* Automactically Deploy To Production
 
 
 Create New Repository
@@ -32,7 +32,7 @@ Create New Repository
 * Input Repository Name, Add Name & Create Repository
 
 
-Create Workflow & Push new code, check the update code
+Create Workflow & Push New Code, Check The Update Code
 
 * Go to Add File, Click Create new file for workflow
 
