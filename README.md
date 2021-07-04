@@ -5,14 +5,16 @@ TDZ Inc., social media production team used share point to share and update many
 
 ![social-media-marketing](social-media-marketing.png) 
 
+
 ![devOps](devOps.png)
+
 
 ## GihHub Actions to build a CI/CD 
 (Continuous integration and either continuous delivery or continuous deployment. Team Collaboration by enforcing automation in building, testing and deployment of applications withing GitHub)
 
 ![CI_CD_worflow](CI_CD_worflow.png)
 
-## Steps of basic myGithubActions Github CICD
+## Steps of basic myGithubActions CICD
 1. Signing up for a new GitHub account (https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 2. Creating a new repository and add a ReadmeFile (https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-new-repository)
 3. Create the workflow using superlinter.yml & input the code name: Super-Linter
@@ -34,11 +36,14 @@ TDZ Inc., social media production team used share point to share and update many
 
 # Click this myGithubActions webpage [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
 
+
 ## Installing
 * Download this program (https://github.com/Nethanialtan/myGithubActions)
 
+
 ## Executing the program
 * Refference above Steps of basic myGithubActions Github CICD 
+
 
 ## Dependencies
 * Input the Super-Linter & python code
@@ -46,8 +51,10 @@ TDZ Inc., social media production team used share point to share and update many
 * Window 10 & VS code
 * Google Chrome browser
 
+
 ### License
 * This project is licensed under the [Nethanial Tan] License - see the LICENSE.md file for details
+
 
 ### Acknowledgments
 * Github(https://github.com/)
