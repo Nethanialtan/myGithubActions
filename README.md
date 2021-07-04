@@ -26,8 +26,20 @@ TDZ Inc., production team used share point to share and update many of their pro
 6. Same step as item 4 above. Staticside icon status shown Red icon
 7. Correct the code, back to code, correct main.py code and run the main.py again & commit changes. If code no issue, staticside icon will show green check 
 8. Any error, Github will notify via email 
+9. Tap on Actions, you will abel to review all Events, status & Branch on all your actions of the above
+10. Many error shown on the code and no major issue, the webpage still able auto update, link to the correct URL, as below
 
 # Click this [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
+
+## Installing
+
+## Executing the program
+
+## Dependencies
+
+## License
+
+## Acknowledgments
 
 
 
