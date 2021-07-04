@@ -1,4 +1,4 @@
-# Simple CI/CD Project
+# Simple CI/CD Project: myGithubActions
 
 ## Overview of purpose
 TDZ Inc., social media production team used share point to share and update many of their web design and programming projects. Issue:  works were uncontrollable and waiting time was wasted. DevOps, a better way to increases an organization's ability to deliver applications and services at high velocity. A simple CICD created high level to share with them.
