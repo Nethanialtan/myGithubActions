@@ -33,12 +33,12 @@ Create New Repository
 * Input Repository Name, Add Name & Create Repository
 
 
-Create Workflow & Push New Code, Check The Update Code
+Click this [myGithubActions](https://nethanialtan.github.io/myGithubActions/) Create Workflow & Push New Code, Check The Update Code
 
 * Go to Add File, Click Create new file for workflow
 
 
-Click this [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
+
  
  
  
