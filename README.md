@@ -10,7 +10,7 @@ TDZ Inc., production team used share point to share and update many of their pro
 
 ![CI_CD_worflow](CI_CD_worflow.png)
 
-## Steps of whole Github CICD
+## Steps of basic myGithubActions Github CICD
 1. Signing up for a new GitHub account (https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
 2. Creating a new repository and add a ReadmeFile (https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-new-repository)
 3. Create the workflow using superlinter.yml & input the code name: Super-Linter
@@ -25,10 +25,7 @@ TDZ Inc., production team used share point to share and update many of their pro
 5. Push some code to generate errror, workflow name : main.py
 6. Same step as item 4 above. Staticside icon status shown Red icon
 7. Correct the code, back to code, correct main.py code and run the main.py again & commit changes. If code no issue, staticside icon will show green check 
-
-
-
-
+8. Any error, Github will notify via email 
 
 # Click this [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
 
