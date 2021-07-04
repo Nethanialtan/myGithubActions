@@ -1,5 +1,5 @@
 # Simple CI/CD Project
-TDZ Inc., production team used share point to share and update their project. Issue:  works were uncontrollable and waiting time was wasted. DevOps, a better way to increases an organization's ability to deliver applications and services at high velocity. A simple CICD created high level to share with them.
+
 
 
 ![devOps](devOps.png)
