@@ -30,7 +30,7 @@ TDZ Inc., production team used share point to share and update many of their pro
 10. Many errors shown on the code and no major issue, the webpage still able auto update, link to the correct URL, as below
 
 
-# Click this [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
+# Click this myGithubActions webpage [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
 
 ## Installing
 * Download this program (https://github.com/Nethanialtan/myGithubActions)
@@ -39,11 +39,18 @@ TDZ Inc., production team used share point to share and update many of their pro
 * Refference above Steps of basic myGithubActions Github CICD 
 
 ## Dependencies
+* Input the Super-Linter & python code
+* GihHub
+* Window 10 & VS code
+* Google Chrome browser
 
+### License
+* This project is licensed under the [Nethanial Tan] License - see the LICENSE.md file for details
 
-## License
+### Acknowledgments
+* Github(https://github.com/)
+* Super-Linter(https://github.com/marketplace/actions/super-linter)
 
-## Acknowledgments
 
 
 
