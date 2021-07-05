@@ -21,6 +21,9 @@ TDZ Inc., social media production team used share point to share and update many
 * Input the code (Push event on ubuntu latest container, check the code and run the Super-Linter
 * Commits to main branch & click the Code tap, back to main repository
 * On static side icon show Yellow as running the workflow & checking the code. If all check code pass, it will turn Green. If all check code fail, it will turn Red. 
+![yellow](yellow.PNG)
+![pass](pass.PNG)
+![fail](fail.PNG)
 * Check on static side icon or Actions tap to review the Super-Linter workflow. 
 * Super-Linter workflow. Able to review the setup job, Pull the code & check code and run the Super-Linter again
 * Back to main Code area, it will show static side icon status (pass or fail). First setup, it passed & shown the green checkmark.
@@ -28,8 +31,11 @@ TDZ Inc., social media production team used share point to share and update many
 6. Same step as item 4 above. Static side icon status shown red icon
 7. Correct the code, back to code, correct main.py code and run the main.py again & commit changes. If code no issue, static side icon will show green check 
 8. Any error, Github will notify via email 
+![emailnotify](emailnotify.PNG)
 9. Tap on Actions, you will able to review all Events, status & Branch on all your actions of the above
-10. Many errors shown on the code and no major issue, the webpage still able auto update, link to the correct URL, as below
+![passevent](passevent.PNG)
+
+
 
 # Click this myGithubActions webpage [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
 
