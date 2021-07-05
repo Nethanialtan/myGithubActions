@@ -1,7 +1,7 @@
 # Simple CI/CD Project: myGithubActions
 
 ## Overview of purpose
-TDZ Inc., social media production team used share point to share and update many of their web design and programming projects. Issue:  works were uncontrollable and waiting time was wasted. DevOps, a better way to increases an organization's ability to deliver applications and services at high velocity. A simple CICD created high level to share with them.
+TDZ Inc., social media production team used share point to share and update many of their web design and programming projects. Issue:  works were uncontrollable and waiting time was wasted. DevOps, a better way to increases an organization's ability to deliver applications and services at high velocity. A simple CICD created to share with them.
 
 ![social-media-marketing](social-media-marketing.png) 
 
@@ -20,13 +20,13 @@ TDZ Inc., social media production team used share point to share and update many
 * Add file and create new file example: mygithubactions/.github/workflows/superlinter.yml
 * Input the code (Push event on ubuntu latest container, check the code and run the Super-Linter
 * Commits to main branch & click the Code tap, back to main repository
-* On static side icon show Yellow as running the workflow & checking the code. If all check code pass, it will turn Green. If all check code fail, it will turn Red. 
+* On static side icon show Yellow as running the workflow & checking the code. If all check code pass, it will turn Green. If all check code fail, it will turn Red 
 ![yellow](yellow.PNG)
 ![pass](pass.PNG)
 ![fail](fail.PNG)
 * Check on static side icon or Actions tap to review the Super-Linter workflow. 
 * Super-Linter workflow. Able to review the setup job, Pull the code & check code and run the Super-Linter again
-* Back to main Code area, it will show static side icon status (pass or fail). First setup, it passed & shown the green checkmark.
+* Back to main Code area, it will show static side icon status (pass or fail). First setup, it passed & shown the green checkmark
 5. Push some code to generate error, workflow name: main.py
 6. Same step as item 4 above. Static side icon status shown red icon
 7. Correct the code, back to code, correct main.py code and run the main.py again & commit changes. If code no issue, static side icon will show green check 
@@ -39,17 +39,15 @@ TDZ Inc., social media production team used share point to share and update many
 
 # Click this myGithubActions webpage [myGithubActions](https://nethanialtan.github.io/myGithubActions/)
 
-## Installing
+### Installing
 * Download this program (https://github.com/Nethanialtan/myGithubActions)
 
-## Executing the program
+### Executing the program
 * Refference above Steps of basic myGithubActions Github CICD 
 
-## Dependencies
+### Dependencies
 * Input the Super-Linter & python code
 * GihHub
-* Window 10 & VS code
-* Google Chrome browser
 
 ### License
 * This project is licensed under the [Nethanial Tan] License - see the LICENSE.md file for details
